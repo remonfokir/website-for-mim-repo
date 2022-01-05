@@ -1,0 +1,60 @@
+#welcome{
+        font-size: 50px;
+        background-color: rgb(5, 121, 238);
+        text-align: center;
+        }
+        
+.namemim {
+        text-size-adjust: 50px;
+        color: orange;
+        margin-left: 2%;
+        
+}
+#crush{
+        color:rgb(21, 60, 255);
+}
+.p1 {
+        background-color: yellow;
+        text-align: justify ;
+        border: 10px solid orangered;
+        margin-left: 7%;
+        margin-right: 20px;
+        padding: 20px;
+}
+#present-crush {
+        color: rgb(47, 6, 230);
+}
+.clickhere {
+        background-color: whitesmoke;
+        border: ridge 8px solid pink;
+        border: 10px;
+        padding: 10px;
+        color: rgb(255, 0, 0);
+}
+.pinline { display: inline;}
+section{
+        display: flex;
+}
+.image1{
+        margin-right: 200px;
+        size: 300px;
+}
+.as-a {
+        background-color: powderblue;
+}
+.fullname {
+        background-color: powderblue;
+}
+.present-love {
+        color: rgb(255, 0, 0);
+        
+}
+.pictureflex {
+        display: flex;
+}
+.pic {
+        margin: 10px;
+}
+#hereis {
+        color: rgb(255, 0, 0);
+}
